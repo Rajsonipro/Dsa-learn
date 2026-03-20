@@ -1,8 +1,13 @@
-# TODO List for Running Java File and Pushing to GitHub
+# Task Progress: Run missingvaluesinjavausinghashing.java and Push to GitHub
 
-- [x] Compile the Java file using `javac .vscode/removeelement.java`
-- [x] Run the compiled program using `java Solution`
-- [x] Check if the directory is a Git repository; if not, initialize it with `git init`
-- [x] Add the file to Git with `git add .`
-- [x] Commit the changes with `git commit -m "Add removeElement solution"`
-- [x] Push to GitHub with `git push origin master`
+## Completed Steps:
+1. ✓ Edit missingvaluesinjavausinghashing.java to add main method with test cases.
+2. ✓ Compile the file.
+
+## Pending Steps:
+3. Running the file and verifying output...
+4. Git add the file (and relevant others).
+5. Git commit changes.
+6. Git push to origin/master.
+7. Verify push success.
+
