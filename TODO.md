@@ -5,6 +5,6 @@
 - [x] Ensure slidingwindow.cpp is present and tested (runs OK)
 - [x] Add untracked/modified files if any (focus slidingwindow.cpp) - note: file not listed, possibly already tracked
 - [x] Commit changes
-- [ ] Push to master
-- [ ] Complete task
+- [x] Push to master (commits 509af0c, 17c7a5e)
+- [x] Complete task
 
