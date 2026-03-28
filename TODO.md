@@ -1,13 +1,10 @@
-# Task Progress: Run missingvaluesinjavausinghashing.java and Push to GitHub
+# Task Progress: Push recent DSA code (slidingwindow.cpp) to master branch
 
-## Completed Steps:
-1. ✓ Edit missingvaluesinjavausinghashing.java to add main method with test cases.
-2. ✓ Compile the file.
-
-## Pending Steps:
-3. Running the file and verifying output...
-4. Git add the file (and relevant others).
-5. Git commit changes.
-6. Git push to origin/master.
-7. Verify push success.
+## Steps:
+- [x] Understand task and repo state (on master, clean)
+- [x] Ensure slidingwindow.cpp is present and tested (runs OK)
+- [ ] Add untracked/modified files if any (focus slidingwindow.cpp)
+- [ ] Commit changes
+- [ ] Push to master
+- [ ] Complete task
 
